@@ -1,0 +1,20 @@
+ cd group_30
+
+ ls -la
+
+ touch secondfile.txt
+
+ vim secondfile.txt
+
+ git add secondfile.txt
+
+ git status
+
+ git commit -m "add the first file"
+
+ git push
+
+ git fetch
+
+ git pull
+ 
